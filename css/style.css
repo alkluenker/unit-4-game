@@ -1,0 +1,33 @@
+body {
+    background-color: aquamarine;
+}
+
+.instructions {
+    background-color: rgb(146, 121, 121);
+}
+
+.startandwinslosses {
+    background-color: aquamarine;
+}
+
+#randomnumber {
+    background-color: rgb(90, 129, 90);
+    height: 100px;
+}
+
+#winslosses {
+    background-color: rgb(125, 131, 211);
+}
+
+.allimages {
+    background-color: aquamarine;
+    
+}
+
+.image {
+    background-color: white;
+}
+
+#tstext, #tsnumber {
+    background-color:teal;
+}
